@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/marcelotoledo/kli/command"
+	"github.com/klivohealth/kli/command"
 	"github.com/yitsushi/go-commander"
 )
 
